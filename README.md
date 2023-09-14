@@ -1,4 +1,4 @@
 # MIPHA
 The source code of MIPHA
 
-The sample input and output were used for demo. 
+Both of the sample input dir and output dir contain demo file for scoring algorithm and enriching algorithm.
